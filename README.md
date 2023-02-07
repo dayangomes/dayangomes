@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=120&section=header"/>
  
-<h1 align="center">Olá, Meu nome é Dayan Ramos Gomes<br>Bem Vindo ao meu perfil</h1>
+<h1 align="center">Olá, Me chamo Dayan Ramos Gomes<br>Bem Vindo ao meu perfil</h1>
  
 <div align="center" >
   <a href="https://github.com/dayangomes">
