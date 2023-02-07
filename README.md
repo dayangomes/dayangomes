@@ -4,8 +4,8 @@
  
 <div align="center" >
   <a href="https://github.com/dayangomes">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dayangomes&show_icons=true&count_private=true&hide_border=false&border_radius=20&title_color=58a6ff&icon_color=0969da&text_color=c9d1d9&bg_color=0d1117" alt="Dayan Gomes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayangomes&layout=compact&hide_border=false&border_radius=20&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dayangomes&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=0969da&text_color=c9d1d9&bg_color=0d1117" alt="Dayan Gomes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayangomes&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ## Ferramentas
